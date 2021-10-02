@@ -1,0 +1,17 @@
+https://www.kaggle.com/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv
+
+Type of recommendation system 
+
+1) Content based recommendation : Content-based Filtering is a Machine Learning technique that uses similarities in features to make decisions. 
+so here tags are get created and based on similarrites of tags do recommendation system. 
+                                    
+
+2) collaborative filtering recommendation system: this method recommend content on the basis of user intrest. 
+There are two types: 
+a)user-to-user collaborative filtering based on user-to-user similarity. 
+b)item-to-item collaborative filtering based on item-to-item similarity.
+
+
+3) Hybrid recommendation system :
+
+Combination of both recommendation system. 
